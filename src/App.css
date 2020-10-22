@@ -1,0 +1,62 @@
+.card-row{
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.dien-card{
+  margin-left:25px;
+  margin-right:25px;
+
+  margin-top:30px;
+
+
+}
+.card:hover{
+  cursor:pointer;
+}
+.nav{
+  position:fixed;
+}
+.cardgroup{
+  margin-top:100px;
+  margin-bottom: 100px;
+  
+
+}
+.button-more{
+  display:flex;
+  align-items: center;
+}
+.bg-dark {
+  background-color: rgba(19, 17, 17, 0.253)!important;
+}
+.btn-search{
+  border-radius:40px;
+
+}
+.input-search{
+  border:2px solid black;
+  border-radius:40px;
+}
+.card-background{
+  color:white;
+  word-wrap: break-word;
+  width:130px;
+  opacity: 1;
+}
+h5{
+  font-size:14px;
+}
+.cardgroup{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.range{
+  margin-left: 50px;
+  margin-top:10px;
+  min-width: 300px;
+}
+
+
+
